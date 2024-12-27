@@ -1,0 +1,14 @@
+2024-12-03 14:57:48 [Debug] 添加服务，单例，MP.Logging.StartupLogger -> MP.Logging.StartupLogger
+2024-12-03 14:57:48 [Debug] 添加服务，单例，MP.Core.Builders.IOsharpBuilder -> MP.Core.Builders.OSharpBuilder
+2024-12-03 14:57:48 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> MP.Core.Packs.OsharpCorePack
+2024-12-03 14:57:48 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> OSharp.Serilog.SerilogPack
+2024-12-03 14:57:48 [Debug] 添加服务，单例，Serilog.ILogger -> Serilog.Core.Logger
+2024-12-03 14:57:48 [Debug] 添加服务，单例，Serilog.SerilogServiceCollectionExtensions+RegisteredLogger -> Serilog.SerilogServiceCollectionExtensions+RegisteredLogger
+2024-12-03 14:57:56 [Debug] 我是LogDebug
+2024-12-03 15:03:30 [Debug] 添加服务，单例，MP.Logging.StartupLogger -> MP.Logging.StartupLogger
+2024-12-03 15:03:30 [Debug] 添加服务，单例，MP.Core.Builders.IOsharpBuilder -> MP.Core.Builders.OSharpBuilder
+2024-12-03 15:03:30 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> MP.Core.Packs.OsharpCorePack
+2024-12-03 15:03:30 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> OSharp.Serilog.SerilogPack
+2024-12-03 15:03:30 [Debug] 添加服务，单例，Serilog.ILogger -> Serilog.Core.Logger
+2024-12-03 15:03:30 [Debug] 添加服务，单例，Serilog.SerilogServiceCollectionExtensions+RegisteredLogger -> Serilog.SerilogServiceCollectionExtensions+RegisteredLogger
+2024-12-03 15:03:48 [Debug] 我是LogDebug

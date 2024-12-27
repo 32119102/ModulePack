@@ -1,0 +1,28 @@
+2024-12-23 16:06:07 [Information] OSharp框架初始化开始
+2024-12-23 16:06:07 [Information] 添加模块 “OSharp核心模块 (OsharpCorePack)” 的服务
+2024-12-23 16:06:07 [Information] 模块 “OSharp核心模块 (OsharpCorePack)” 的服务添加完毕，添加了 1 个服务
+
+2024-12-23 16:06:07 [Information] 添加模块 “Log4Net日志模块 (SerilogPack)” 的服务
+2024-12-23 16:06:07 [Information] 模块 “Log4Net日志模块 (SerilogPack)” 的服务添加完毕，添加了 6 个服务
+
+2024-12-23 16:06:07 [Information] 添加模块 “AspNetCore模块 (AspNetCorePack)” 的服务
+2024-12-23 16:06:07 [Information] 模块 “AspNetCore模块 (AspNetCorePack)” 的服务添加完毕，添加了 2 个服务
+
+2024-12-23 16:06:07 [Information] 添加模块 “身份认证模块 (AuthenticationPack)” 的服务
+2024-12-23 16:06:07 [Information] 模块 “身份认证模块 (AuthenticationPack)” 的服务添加完毕，添加了 30 个服务
+
+2024-12-23 16:06:07 [Information] 共有 4 个Pack模块需要初始化
+2024-12-23 16:06:07 [Information] 正在初始化模块 “OSharp核心模块 (OsharpCorePack)”
+2024-12-23 16:06:07 [Information] 模块 “OSharp核心模块 (OsharpCorePack)” 初始化完成
+
+2024-12-23 16:06:07 [Information] 正在初始化模块 “AspNetCore模块 (AspNetCorePack)”
+2024-12-23 16:06:07 [Information] 模块 “AspNetCore模块 (AspNetCorePack)” 初始化完成
+
+2024-12-23 16:06:07 [Information] 正在初始化模块 “Log4Net日志模块 (SerilogPack)”
+2024-12-23 16:06:07 [Information] 模块 “Log4Net日志模块 (SerilogPack)” 初始化完成
+
+2024-12-23 16:06:07 [Information] 正在初始化模块 “身份认证模块 (AuthenticationPack)”
+2024-12-23 16:06:07 [Information] 模块 “身份认证模块 (AuthenticationPack)” 初始化完成
+
+2024-12-23 16:06:07 [Information] OSharp框架初始化完成，耗时：00:00:00.0037237
+

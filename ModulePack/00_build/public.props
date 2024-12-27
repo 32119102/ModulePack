@@ -1,0 +1,26 @@
+<Project>
+  <PropertyGroup>
+    <!--启用using-->
+    <ImplicitUsings>enable</ImplicitUsings>    
+    <!--是否编译的时候生成包-->
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <!--作者-->
+    <Authors>lh</Authors>      
+    <!--包标签-->
+    <PackageTags>modulePack</PackageTags>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <Company></Company>
+    <Copyright>Copyright：2021-2099</Copyright>
+    <!--打包路径-->
+    <PackageOutputPath>$(SolutionDir)\_packages</PackageOutputPath>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <!--取消警告-->
+    <NoWarn>1701;1702;1591;8002</NoWarn>
+
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+@ApiKnife4j_HostAddress = http://localhost:5031
+
+GET {{ApiKnife4j_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

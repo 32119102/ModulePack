@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <!--<Import Project="../../00_build/public.props" />
+  <Import Project="../../00_build/version.props" />-->
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>OSharp.AspNetCore</PackageId>
+    <Summary>OSharp AspNetCore组件</Summary>
+    <Description>OSharp AspNetCore组件，提供AspNetCore的服务端功能的封装</Description>
+    <RootNamespace>OSharp.AspNetCore</RootNamespace>
+    <AssemblyName>OSharp.AspNetCore</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MP\MP.csproj" />
+  </ItemGroup>
+
+</Project>

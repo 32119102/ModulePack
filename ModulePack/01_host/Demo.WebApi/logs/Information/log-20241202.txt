@@ -1,0 +1,17 @@
+2024-12-02 16:18:38 [Information] OSharp框架初始化开始
+2024-12-02 16:18:38 [Information] 添加模块 “OSharp核心模块 (OsharpCorePack)” 的服务
+2024-12-02 16:18:38 [Information] 模块 “OSharp核心模块 (OsharpCorePack)” 的服务添加完毕，添加了 1 个服务
+
+2024-12-02 16:18:38 [Information] 添加模块 “Log4Net日志模块 (SerilogPack)” 的服务
+2024-12-02 16:18:38 [Information] 模块 “Log4Net日志模块 (SerilogPack)” 的服务添加完毕，添加了 6 个服务
+
+2024-12-02 16:18:38 [Information] 共有 2 个Pack模块需要初始化
+2024-12-02 16:18:38 [Information] 正在初始化模块 “OSharp核心模块 (OsharpCorePack)”
+2024-12-02 16:18:38 [Information] 模块 “OSharp核心模块 (OsharpCorePack)” 初始化完成
+
+2024-12-02 16:18:38 [Information] 正在初始化模块 “Log4Net日志模块 (SerilogPack)”
+2024-12-02 16:18:38 [Information] 模块 “Log4Net日志模块 (SerilogPack)” 初始化完成
+
+2024-12-02 16:18:38 [Information] OSharp框架初始化完成，耗时：00:00:00.0012585
+
+2024-12-02 16:18:48 [Information] 我是LogInformation

@@ -1,0 +1,1 @@
+2024-12-23 16:06:08 [Warning] The WebRootPath was not found: "E:\代码\myCode\Slm\ModulePack\ModulePack\01_host\Demo.WebApi\wwwroot". Static files may be unavailable.

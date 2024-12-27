@@ -1,0 +1,7 @@
+2024-12-02 16:18:38 [Debug] 添加服务，单例，MP.Logging.StartupLogger -> MP.Logging.StartupLogger
+2024-12-02 16:18:38 [Debug] 添加服务，单例，MP.Core.Builders.IOsharpBuilder -> MP.Core.Builders.OSharpBuilder
+2024-12-02 16:18:38 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> MP.Core.Packs.OsharpCorePack
+2024-12-02 16:18:38 [Debug] 添加服务，单例，MP.Core.Packs.OsharpPack -> OSharp.Serilog.SerilogPack
+2024-12-02 16:18:38 [Debug] 添加服务，单例，Serilog.ILogger -> Serilog.Core.Logger
+2024-12-02 16:18:38 [Debug] 添加服务，单例，Serilog.SerilogServiceCollectionExtensions+RegisteredLogger -> Serilog.SerilogServiceCollectionExtensions+RegisteredLogger
+2024-12-02 16:18:48 [Debug] 我是LogDebug

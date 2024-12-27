@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <!--<Import Project="../../00_build/public.props" />
+  <Import Project="../../00_build/version.props" />-->
+  
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <PackageId>MP.Core</PackageId>
+    <Description>MP核心组件，封装着框架核心及数据存储，缓存，辅助操作等功能</Description>
+    <Summary>MP核心组件</Summary>
+    <RootNamespace>MP</RootNamespace>
+    <AssemblyName>MP</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\MP.Utils\MP.Utils.csproj" />
+  </ItemGroup>
+
+</Project>
